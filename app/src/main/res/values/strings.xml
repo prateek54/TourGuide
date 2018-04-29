@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Durban Tour Guide</string>
+    <string name="info">Info</string>
+    <string name="attractions">Attractions</string>
+    <string name="nature">Nature</string>
+    <string name="museums">Museums</string>
+    <string name="restaurants">Restaurants</string>
+
+    <!--Strings used in the MuseumFragment-->
+    <string name="natural_science_museum">Durban Natural Science Museum</string>
+    <string name="nsm_address">First Floor, City Hall, Anton Lembede Street</string>
+    <string name="old_house_museum">The Old House Museum</string>
+    <string name="ohm_address">31 Diaconia Street, City Centre</string>
+    <string name="kwamuhle_museum">KwaMuhle Museum</string>
+    <string name="km_address">130 Bram Fischer Road, City Centre</string>
+    <string name="campbell_collection">The Campbell Collection</string>
+    <string name="cc_address">220 Gladys Mazibuko Road</string>
+    <string name="port_natal_museum">Port Natal Maritime Museum</string>
+    <string name="pnm_address">Maritime Place, Small Craft Harbour, City Centre</string>
+    <string name="phansi_museum">Phansi Museum</string>
+    <string name="pm_address">500 Esther Roberts Road, Glenwood</string>
+    <string name="cato_manor_heritage_center">Cato Manor Heritage Center</string>
+    <string name="cmhc_address">Intuthuko Junction, 750 Rick Turner Road, Cato Manor</string>
+    <string name="old_court_house">The Old Court House</string>
+    <string name="och_address">99 Samora Machel Street, City Centre</string>
+    <string name="bergtheil_museum">Bergtheil Museum</string>
+    <string name="bm_address">16 Queens Avenue, Westville</string>
+
+    <!--Strings used in the RestaurantFragment-->
+    <string name="cafe_1999">Cafe 1999</string>
+    <string name="address_cafe_1999">Shop 2, Silvervause Centre, 117 Vause Rd, Musgrave</string>
+    <string name="butcher_boys">Butcher Boys Florida Road</string>
+    <string name="address_butcher_boys">170 Florida Rd, Morningside</string>
+    <string name="avenue_bistro">9th Avenue Bistro</string>
+    <string name="address_avenue_bistro">2, Avonmore centre, 9th Ave, Morningside</string>
+    <string name="little_india">The Little India Restaurant</string>
+    <string name="address_little_india">155 Musgrave Rd, Berea</string>
+    <string name="grill_jichana">Grill Jichana</string>
+    <string name="address_grill_jichana">Southern Sun Elangeni &amp; Maharani, 63 Snell Parade, North Beach</string>
+    <string name="mali">Mali\'s Indian Restaurant</string>
+    <string name="address_mali">77 Smiso Nkwanyana Rd, Morningside</string>
+    <string name="quo_restaurant">Quo Restaurant</string>
+    <string name="address_quo_restaurant">Gillitts Shopping Centre, 2 Clifton Rd, Gillitts</string>
+    <string name="joops_place">Joops Place</string>
+    <string name="address_joops_place">14, Avonmore Centre, NINTH Avenue, Essenwood</string>
+    <string name="surf_riders">Surf Riders Food Shack</string>
+    <string name="address_surf_riders">17 Erskine Terrace, South Beach</string>
+    <string name="afro">Afro\'s Chicken Shop</string>
+    <string name="address_afro">2 O R Tambo Parade, South Beach</string>
+    <string name="jack_salmon">Jack Salmon Fish House</string>
+    <string name="address_jack_salmon">Shop 15, Glenore Centre, 1 Aubrey Dr, Glen Ashley</string>
+    <string name="olive_oil">Olive &amp; Oil</string>
+    <string name="address_olive_oil">149 Helen Joseph Road, Glenwood</string>
+    <string name="mooki_noodle_bar">Mooki Noodle Bar</string>
+    <string name="address_mooki_noodle_bar">190 Brand Rd, Glenwood</string>
+    <string name="lupa_osteria">Lupa Osteria</string>
+    <string name="address_lupa_osteria">124 Jan Hofmeyr Rd, Dawncrest, Westville</string>
+    <string name="big_easy">Big Easy Durban by Ernie Els</string>
+    <string name="address_big_easy">12\-14 Walnut Rd, Durban Central</string>
+    <string name="havana_grill">Havana Grill</string>
+    <string name="address_havana_grill">42, Suncoast Casino, Battery Beach Rd, North Beach</string>
+    <string name="unity">Unity</string>
+    <string name="address_unity">Silvervause Centre, 117 Silverton Rd, Musgrave</string>
+    <string name="mozambik">Mo-Zam-Bik</string>
+    <string name="address_mozambik">198c Florida Rd, Windermere, Berea</string>
+
+    <!--String used in the InfoFragment-->
+    <string name="info_text">Durban (Zulu: eThekwini, from itheku meaning \"bay/lagoon\") is the largest
+        city in the South African province of KwaZulu-Natal and the third most populous in South Africa
+        after Johannesburg and Cape Town. Located on the east coast of South Africa, Durban is famous
+        for being the busiest port in the country. It is also seen as one of the major centres of tourism
+        because of the city\'s warm subtropical climate and extensive beaches. Durban forms part of the
+        eThekwini Metropolitan Municipality, which includes neighboring towns and has a population of
+        about 3.44 million. In May 2015, Durban was officially recognised as one of the New7Wonders Cities
+        (together with Vigan, Doha, La Paz, Havana, Beirut, and Kuala Lumpur).
+        \n\nRainbow nation is a term coined by Archbishop Desmond Tutu to describe post-apartheid South Africa,
+        after South Africa\'s first fully democratic election in 1994. The term was intended to encapsulate
+        the unity of multi-culturalism and the coming-together of people of many different nations,
+        in a country once identified with the strict division of white and black.
+        \n\nDurban is ethnically diverse, with a cultural richness of mixed beliefs and traditions.
+        Zulus form the largest single ethnic group. It has a large number of people of British descent
+        and has the most Indians of any city outside India. The influence of Indians in Durban has been
+        significant, bringing with them a variety of cuisine, culture and religion. The faith-based
+        conflict that is evident in many parts of the world is not reflected in Durban\'s religious landscape,
+        where harmony is generally the order of the day.  While the legacy of apartheid is still with us
+        in many ways, contemporary South Africa is a country of great tolerance and acceptance.</string>
+
+    <!--Strings used in the AttractionsFragment-->
+    <string name="moses_mabhida_stadium">Moses Mabhida Stadium</string>
+    <string name="moses_mabhida_stadium_info">Activities include a Skycar ride or Adventure Walk to the
+        top of the arch with 360 degree views over Durban; \nGuinness world record Bungee swing;
+        \nSegway gliding tours of the stadium; \nCafes and Restaurants</string>
+    <string name="kingsmead_cricket_ground">Kingsmead Cricket Ground</string>
+    <string name="kingsmead_cricket_ground_info">is a major test match and one-day cricket venue</string>
+    <string name="kings_park_stadium">Kings Park Stadium</string>
+    <string name="kings_park_stadium_info">is host to the internationally renowned Sharks Rugby Team</string>
+    <string name="ice_arena">Durban Ice Arena</string>
+    <string name="ice_arena_info">Activities include leisure ice skating, birthday parties, school excursions,
+        sporting events, teambuilding activities, corporate functions and group bookings</string>
+    <string name="port_durban">Port of Durban/ Harbour</string>
+    <string name="port_durban_info">Durban has a long tradition as a port city. The Port of Durban,
+        formerly known as the Port of Natal, was an extremely busy port of call for ship repairs
+        when the port was opened in the 1840s. Durban is now the busiest port in South Africa,
+        as well as the fourth busiest container port in the Southern Hemisphere.</string>
+    <string name="rickshaws">Rickshaws</string>
+    <string name="rickshaws_info">Durban is known for its iconic Zulu rickshaw pullers navigating throughout
+        the city. These colourful characters are famous for their giant, vibrant hats and costumes.
+        Although they have been a mode of transportation since the early 1900s, they have been displaced
+        by other forms of motorised transport, and the 25 or so remaining rickshaws mostly cater to tourists.</string>
+    <string name="uShaka">uShaka Marine World</string>
+    <string name="uShaka_info">with Wet \'n Wild water park and uShaka Sea World - the fifth largest aquarium in the world</string>
+    <string name="bunny_chow">Bunny chow</string>
+    <string name="bunny_chow_info">Durban is famous for it\'s Indian food, most notably the Indian food known as
+        the "bunny chow". Ironically the bunny chow, doesn\'t have rabbit meat, it only has beef stuffed in bread.</string>
+
+    <!--Strings used in the NatureFragment-->
+    <string name="botanic_gardens">The Durban Botanic Gardens</string>
+    <string name="botanic_gardens_info"> was established in 1849. The oldest such park in Africa, it
+        includes a selection of well-established trees and a small indigenous forest. The gardens are
+        home to the rare cycad Encephalantos woodii and includes a lovingly maintained orchid house,
+        an informative visitors centre and a charming coffee shop. Located on Durban\'s Berea,
+        with a pond and beautifully landscaped lawn at its centre, it's the perfect place for
+        a stress-free family outing.</string>
+    <string name="hawaan_forest">Hawaan Forest Nature Reserve</string>
+    <string name="hawaan_forest_info">is a 110 hectare stretch of forest middle of residential
+        Umhlanga that has survived the process of urbanisation. The reserve is a beautiful example of
+        coastal lowland forest that includes many rare trees as well as a number of small indigenous
+        animals such as bushbuck, bushpig, duiker, mongoose and guinea fowl. Facilities include a picnic
+        area, guided walks, binding and game viewing.</string>
+    <string name="pigeon_valley">Pigeon Valley Nature reserve</string>
+    <string name="pigeon_valley_info">is located near the city centre in the suburb of Bulwer and is
+        readily accessible from Mazisi Kunene Road. This small park contains many large indigenous trees,
+        including the Natal Elm, and preserves something of the original coastal forest environment.
+        A good birding site for forest birds in particular, the park includes short trails on both sides
+        of the valley, through which a small stream runs.</string>
+    <string name="bird_park">Umgeni River Bird Park</string>
+    <string name="bird_park_info"> is home to more than 400 different species of bird. With a strong
+        emphasis on conservation and education, the park features birds from North and South America,
+        Africa, Indonesia and Australia while the Cockatoo Café, situated in the heart of the bird park,
+        provides visitors with delicious breakfasts and light lunches. In 2009 the eThekwini
+        Municipality agreed to purchase the Umgeni River Bird Park from its previous owners Tsogo Sun
+        Gaming, rather than allow it to close down.</string>
+    <string name="krantzkloof">Krantzkloof Nature Reserve</string>
+    <string name="krantzkloof_info">offers breath-taking views of the spectacular
+        gorge system created by the Molweni and Nqudu Rivers. There are a number of marked self-guided walks
+        available through this amazing natural landscape. The reserve includes many rare plants as well as
+        frequent close-up sightings of eagles and falcons. Braai facilities are available as well as
+        guided walks and guided birding and game viewing.</string>
+    <string name="burman_bush">Burman Bush</string>
+    <string name="burman_bush_info"> is a nature reserve in Morningside. Among the forest trees that populate
+        the reserve are flat-crowns, the forest fever-berry and red beech. It contains three walking trails,
+        that wind through the forest and allow visitors to see the various flora and fauna. A viewing platform
+        at the outer walk\'s northern extremity allows sweeping views of the Umgeni River, from Connaught bridge
+        to the Blue lagoon. Reclusive species constitute much of the fauna. The reserve has Durban\'s largest population
+        of blue duiker, besides grey duiker, banded and slender mongoose, porcupines and troops of vervet monkeys.</string>
+    <string name="new_germany">New Germany Nature Reserve</string>
+    <string name="new_germany_info">is a protected area of coastal grassland and forest overlooking the suburb
+        of New Germany outside of Pinetown, Durban. The reserve consists of a nature park featuring a walk-through
+        aviary and snake display, and grasslands to the south of the park which can be explored by foot.
+        The reserve is home to a number of bird species, including the Natal robin and purple-crested Turaco.
+        Small mammals such as the blue and common duiker, impala, and mongoose are also found in the reserve.</string>
+    <string name="umhlanga_reserve">Umhlanga Lagoon Nature Reserve</string>
+    <string name="umhlanga_reserve_info">is a 26 hectares nature reserve on the shore of the Indian Ocean
+        at Umhlanga Rocks, South Africa. The reserve encloses the Ohlanga River\'s lagoon and mouth.
+        The forest forms a natural extension of the less accessible Hawaan Forest, of which the greater
+        part lies inland of the busy M4 road. The reserve trails start at a car park at the northern end
+        of Lagoon Drive, Umhlanga. The reserve has picnic sites, the remains of a prehistoric shell midden
+        and walking trails, with a walkway and pedestrian bridge that span the lagoon.</string>
+    <string name="mitchel_jameson">Mitchell Park &amp; Jameson Park</string>
+    <string name="mitchel_jameson_info">are located at the top of Florida Road. With its majestic trees
+        and beautifully manicured flower beds, Mitchell Park is a popular spot for family outings.
+        Across the road is Jameson Park, which is home to a mass of beautifully maintained rose bushes
+        and which provides a wonderful view of the city.</string>
+    <string name="palmiet">Palmiet Nature Reserve</string>
+    <string name="palmiet_info">has a diversity of birds and plants living among its gentle waterways,
+        grasslands and cliffs. With a small area of Saligna woodland, the reserve is a lovely spot to
+        while away an afternoon and learn more about local fauna at the Interpretive Centre. The reserve
+        is also an historic site and includes part of the original wagon route from Durban to Pietermaritzburg.</string>
+
+</resources>
